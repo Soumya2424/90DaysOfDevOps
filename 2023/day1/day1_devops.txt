@@ -1,0 +1,5 @@
+DevOps is a methodology which Involves practices to bridge the gap of Dev and ops team by using Open source automation build tools.
+These are the articles which I refered to,
+
+https://www.synopsys.com/glossary/what-is-devops.html
+https://learn.microsoft.com/en-us/devops/what-is-devops
